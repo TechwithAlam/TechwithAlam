@@ -28,8 +28,8 @@ I'm a first-year B.Tech Computer Science student specializing in Artificial Inte
 ---
 
 ### 📫 How to reach me:
-- 📧 [kamreajalam@gmail.com] 
-- 💼 [https://www.linkedin.com/in/kamreajalam] 
+- 📧 kamreajalam@gmail.com
+- 💼 https://www.linkedin.com/in/kamreajalam
 
 ---
 
