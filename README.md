@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Kamreaj Alam
+### 👋 Hi, I’m Md Kamreaj Alam
 
 I’m a B.Tech Computer Science student specializing in Artificial Intelligence, with a strong interest in building practical and impactful technology solutions. I enjoy solving real-world problems and continuously improving my technical and communication skills.
 
