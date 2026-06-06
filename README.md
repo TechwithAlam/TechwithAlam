@@ -15,13 +15,13 @@ I’m a B.Tech Computer Science student specializing in Artificial Intelligence,
 ### 🌱 Currently Learning
 - Python for AI/ML  
 - Data analysis using Pandas & NumPy  
-- Machine learning models (Scikit-learn)  
+- Machine learning models (Scikit-learn) , Deep learning 
 
 ---
 
 ### 🛠️ Skills
 - Programming: Python, C, Java  
-- Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Tensorflow 
 - Tools: Git, GitHub, VS Code, Jupyter Notebook, PyCharm, Cursor  
 - Concepts: Data preprocessing, feature engineering, model building, problem-solving  
 
